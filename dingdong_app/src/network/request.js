@@ -3,7 +3,7 @@ import Vant from 'vant'
 
 export function request(config) {
   const instance = axios.create({
-    baseURL:'http://localhost:3000',
+    baseURL:'填写node服务端的运行地址',
     timeout:5000
   })
 

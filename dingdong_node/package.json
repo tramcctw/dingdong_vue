@@ -1,0 +1,18 @@
+{
+  "name": "dingdong_node",
+  "version": "1.0.0",
+  "description": "### vue_dingdong 叮咚买菜，这个项目是我在业余时间做的一个全栈小项目，非常适合需要实战经验的伙伴",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

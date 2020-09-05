@@ -12,6 +12,6 @@ app.use(cors())
 
 app.use(router)
 
-app.listen(3000,function () {
+app.listen('填写端口',function () {
   console.log("running...")
 })

@@ -2,6 +2,7 @@ const db = require('../config/db')
 
 const querys = {
 
+    // 执行查询数据库
     query(sql,arr){
       return new Promise((resolve,reject)=>{
         db.query(sql,arr,function (data) {
