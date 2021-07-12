@@ -3,7 +3,7 @@
 ### 代码如何运行
 
 
-1.将代码clone到本地（注意这里不能直接download）
+1.将代码clone到本地
 
 ```shell
 git clone https://github.com/tramcctw/dingdong_vue.git
