@@ -19,8 +19,6 @@ git clone https://github.com/tramcctw/dingdong_vue.git
 
 ### 项目展示
 
-项目代码：https://github.com/tramcctw/dingdong_vue
-
 <img src="https://github.com/tramcctw/images/blob/master/images/dingdong01.png"  width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong02.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong03.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong04.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong05.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong06.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong07.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong08.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong09.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong10.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong11.png" width="200px"/><img src="https://github.com/tramcctw/images/blob/master/images/dingdong12.png" width="200px"/>
 
 
