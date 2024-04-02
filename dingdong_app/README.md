@@ -1,15 +1,6 @@
 # vue-node全栈小程序
 
-
 ### 代码如何运行
-
-
-1.将代码clone到本地（注意这里不能直接download）
-
-```shell
-git clone https://github.com/tramcctw/dingdong_vue.git
-```
-
 
 > 后端node 将sql文件导入自己的数据库，在db数据库配置文件中
 > 输入导入数据库的名称，以及数据库密码，进入dingdong_node目录
@@ -17,7 +8,6 @@ git clone https://github.com/tramcctw/dingdong_vue.git
 > 进入dingdong_app目录，使用npm install 安装依赖包，
 > 在network目录下 baseurl 填写本地node服务器地址
 > npm run serve 运行vue代码
-
 
 
 ### 项目展示
